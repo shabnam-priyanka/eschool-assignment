@@ -20,11 +20,12 @@
   /* width: 550px; */
   max-width: 100%;
 }
-#btn {
+
+.greenbtn {
   border-radius: 33px;
   padding: 12px 36px;
   border: none;
-  color: 21b573;
+  background-color: #21b573;
 }
 
 /* card  2nd section starts here */
